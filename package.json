@@ -1,0 +1,12 @@
+{
+  "name": "mental-health-coach-ai",
+  "version": "1.0.0",
+  "description": "AI Mental Health Coach Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
